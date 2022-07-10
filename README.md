@@ -12,3 +12,7 @@
 
 4. dotenv config
    npm i --save @nestjs/config
+   this.configService.get('DB_PASSWORD')
+
+5. 동적 env load
+   강의 ConfigModule 사용하기 (dotenv 진화판) 8:56
